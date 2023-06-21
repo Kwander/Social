@@ -1,0 +1,12 @@
+---
+:id: 150832601
+:submitters:
+- :name: Kevin W Wander
+  :email: kevin.wander30@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-26 01:40:46.198190000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-25 17:40:46.198190000 Z
+:status: processed
+:score: 0.0
